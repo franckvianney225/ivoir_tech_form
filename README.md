@@ -77,6 +77,13 @@ PORT=3001
 DATABASE_FILE=./database.db
 ```
 
+## Captures d'écran
+
+![Interface principale du formulaire](public/projet/ivoir_tech_1.png)
+
+![Vue d'ensemble de l'application](public/projet/ivoir_tech.png)
+
+![Formulaire de saisie](public/projet/ivoiretech_form.png)
 ## Documentation API
 
 Le backend expose les endpoints suivants :
